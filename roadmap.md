@@ -5,7 +5,7 @@
 - [ ] Enhance the UI by displaying loading indicators during API requests.
 - [ ] Store the conversion history in memory and display the latest 5 entries in the history table.
 
-## Phase 1: User Experience and Additional Functionality
+## Phase 2: User Experience and Additional Functionality
 - [ ] Implement sorting and filtering options for the conversion history table.
 - [ ] Add pagination to the conversion history table if the number of entries exceeds a certain limit.
 - [ ] Implement a feature to export the conversion history as a CSV file.
